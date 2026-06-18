@@ -2,7 +2,6 @@
 ### Detecting Co-occurring Hostility Types in User-Generated Text Using Transformer Models
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasharmahboudi-ui/Transformer-Finetuning-Toxic-Classification/blob/main/Yashar_Mahboudi_&_Payam_Latifi_Transformer-Finetuning-Toxic-Classification.ipynb)
 ---
-<img width="137" height="150" alt="multilabel_toxic_classification_pipeline" src="https://github.com/user-attachments/assets/29b20fbb-6d87-4ef6-ad70-5943176ad1bd" />
 
 **Authors:** Payam Latifi & Yashar Mahboudi
 **Course:** Technologies for Multimodal Data Representation and Archives (Winter 2026)
