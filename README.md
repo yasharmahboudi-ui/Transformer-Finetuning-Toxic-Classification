@@ -1,6 +1,6 @@
 # Multi-label Classification of Toxic Comments
 ### Detecting Co-occurring Hostility Types in User-Generated Text Using Transformer Models
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasharmahboudi-ui/Transformer-Finetuning-Toxic-Classification/blob/main/Yashar_Mahboudi_&_Payam_Latifi_Transformer-Finetuning-Toxic-Classification.ipynb)
 ---
 
 **Authors:** Payam Latifi & Yashar Mahboudi
